@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+8bUHU4WeWY=",
+  "success": true,
+  "projectFilePath": "F:\\kareem\\I-Fekra\\kafka learning\\KafkaDotNetConsumer\\KafkaDotNetConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YG\\.nuget\\packages\\confluent.kafka\\2.14.0\\confluent.kafka.2.14.0.nupkg.sha512",
+    "C:\\Users\\YG\\.nuget\\packages\\librdkafka.redist\\2.14.0\\librdkafka.redist.2.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
