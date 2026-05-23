@@ -153,6 +153,37 @@ app.get('/api/admin/metrics/cpu', async (req, res) => {
     }
 });
 
+app.get('/api/admin/metrics/disk', async (req, res) => {
+    try {
+        const end = new Date().toISOString();
+        const start = new Date(Date.now() - 5 * 60 * 1000).toISOString(); 
+
+        const response = await axios.get(PROMETHEUS_URL, {
+            params: {
+                query: '((node_filesystem_size_bytes - node_filesystem_free_bytes) / node_filesystem_size_bytes) * 100',
+                start,
+                end,
+                step: '15s'
+            }
+        });
+
+
+        const chartData = response.data.data.result.map(series => ({
+
+            device: series.metric.device || 'Primary Storage',
+            mountpoint: series.metric.mountpoint || '/',
+            points: series.values.map(pt => ({
+                time: new Date(pt[0] * 1000).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit', second: '2-digit' }),
+                value: parseFloat(parseFloat(pt[1]).toFixed(2)) 
+            }))
+        }));
+
+        res.json({ success: true, type: 'disk', data: chartData });
+    } catch (error) {
+        res.status(500).json({ success: false, error: error.message });
+    }
+});
+
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, async () => {
