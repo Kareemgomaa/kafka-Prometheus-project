@@ -28,9 +28,6 @@ const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 const PROMETHEUS_URL = 'http://localhost:9090/api/v1/query_range';
 
 
-// ==========================================
-// 🔌 سيكشن الـ WebSockets (جاهز للفرونت إند)
-// ==========================================
 
 async function getMetricForSocket(query) {
     try {
@@ -45,7 +42,6 @@ async function getMetricForSocket(query) {
 
 io.on('connection', (socket) => {
     console.log(` Client connected to WebSocket: ${socket.id}`);
-
     const sendLiveMetrics = async () => {
         const resRequests = await getMetricForSocket('sum by (route, status_code) (rate(http_requests_total[1m]))');
         const requestsData = resRequests.map(series => ({
