@@ -1,0 +1,366 @@
+{
+    "success": true,
+    "type": "disk",
+    "data": [
+        {
+            "device": "/dev/sde",
+            "mountpoint": "/etc/hostname",
+            "points": [
+                {
+                    "time": "04:23:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:24:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:24:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:24:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:24:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:25:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:25:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:25:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:25:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:26:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:26:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:26:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:26:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:27:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:27:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:27:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:27:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:28:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:28:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:28:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:28:57 PM",
+                    "value": 0.51
+                }
+            ]
+        },
+        {
+            "device": "/dev/sde",
+            "mountpoint": "/etc/hosts",
+            "points": [
+                {
+                    "time": "04:23:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:24:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:24:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:24:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:24:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:25:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:25:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:25:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:25:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:26:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:26:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:26:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:26:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:27:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:27:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:27:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:27:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:28:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:28:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:28:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:28:57 PM",
+                    "value": 0.51
+                }
+            ]
+        },
+        {
+            "device": "/dev/sde",
+            "mountpoint": "/etc/resolv.conf",
+            "points": [
+                {
+                    "time": "04:23:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:24:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:24:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:24:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:24:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:25:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:25:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:25:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:25:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:26:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:26:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:26:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:26:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:27:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:27:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:27:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:27:57 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:28:12 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:28:27 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:28:42 PM",
+                    "value": 0.51
+                },
+                {
+                    "time": "04:28:57 PM",
+                    "value": 0.51
+                }
+            ]
+        },
+        {
+            "device": "C:\\134",
+            "mountpoint": "/host/c",
+            "points": [
+                {
+                    "time": "04:23:57 PM",
+                    "value": 75.68
+                },
+                {
+                    "time": "04:24:12 PM",
+                    "value": 75.69
+                },
+                {
+                    "time": "04:24:27 PM",
+                    "value": 75.7
+                },
+                {
+                    "time": "04:24:42 PM",
+                    "value": 75.71
+                },
+                {
+                    "time": "04:24:57 PM",
+                    "value": 75.71
+                },
+                {
+                    "time": "04:25:12 PM",
+                    "value": 75.73
+                },
+                {
+                    "time": "04:25:27 PM",
+                    "value": 75.73
+                },
+                {
+                    "time": "04:25:42 PM",
+                    "value": 75.74
+                },
+                {
+                    "time": "04:25:57 PM",
+                    "value": 75.75
+                },
+                {
+                    "time": "04:26:12 PM",
+                    "value": 75.75
+                },
+                {
+                    "time": "04:26:27 PM",
+                    "value": 75.76
+                },
+                {
+                    "time": "04:26:42 PM",
+                    "value": 75.77
+                },
+                {
+                    "time": "04:26:57 PM",
+                    "value": 75.77
+                },
+                {
+                    "time": "04:27:12 PM",
+                    "value": 75.78
+                },
+                {
+                    "time": "04:27:27 PM",
+                    "value": 75.79
+                },
+                {
+                    "time": "04:27:42 PM",
+                    "value": 75.79
+                },
+                {
+                    "time": "04:27:57 PM",
+                    "value": 75.8
+                },
+                {
+                    "time": "04:28:12 PM",
+                    "value": 75.81
+                },
+                {
+                    "time": "04:28:27 PM",
+                    "value": 75.81
+                },
+                {
+                    "time": "04:28:42 PM",
+                    "value": 75.82
+                },
+                {
+                    "time": "04:28:57 PM",
+                    "value": 75.83
+                }
+            ]
+        }
+    ]
+}

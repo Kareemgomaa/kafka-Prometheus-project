@@ -1,0 +1,138 @@
+{
+    "success": true,
+    "type": "requests",
+    "data": [
+        {
+            "route": "/api/admin/metrics/cpu",
+            "status": "200",
+            "points": [
+                {
+                    "time": "04:32:36 PM",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "route": "/api/admin/metrics/disk",
+            "status": "200",
+            "points": [
+                {
+                    "time": "04:27:36 PM",
+                    "value": 1
+                },
+                {
+                    "time": "04:27:51 PM",
+                    "value": 1
+                },
+                {
+                    "time": "04:28:06 PM",
+                    "value": 1
+                },
+                {
+                    "time": "04:28:21 PM",
+                    "value": 1
+                },
+                {
+                    "time": "04:28:36 PM",
+                    "value": 1
+                },
+                {
+                    "time": "04:28:51 PM",
+                    "value": 1
+                },
+                {
+                    "time": "04:29:06 PM",
+                    "value": 2
+                },
+                {
+                    "time": "04:29:21 PM",
+                    "value": 2
+                },
+                {
+                    "time": "04:29:36 PM",
+                    "value": 2
+                },
+                {
+                    "time": "04:29:51 PM",
+                    "value": 2
+                },
+                {
+                    "time": "04:30:06 PM",
+                    "value": 2
+                },
+                {
+                    "time": "04:30:21 PM",
+                    "value": 2
+                },
+                {
+                    "time": "04:30:36 PM",
+                    "value": 2
+                },
+                {
+                    "time": "04:30:51 PM",
+                    "value": 2
+                },
+                {
+                    "time": "04:31:06 PM",
+                    "value": 2
+                },
+                {
+                    "time": "04:31:21 PM",
+                    "value": 2
+                },
+                {
+                    "time": "04:31:36 PM",
+                    "value": 2
+                },
+                {
+                    "time": "04:31:51 PM",
+                    "value": 2
+                },
+                {
+                    "time": "04:32:06 PM",
+                    "value": 2
+                },
+                {
+                    "time": "04:32:21 PM",
+                    "value": 2
+                },
+                {
+                    "time": "04:32:36 PM",
+                    "value": 3
+                }
+            ]
+        },
+        {
+            "route": "/api/admin/metrics/ram",
+            "status": "200",
+            "points": [
+                {
+                    "time": "04:32:36 PM",
+                    "value": 1
+                }
+            ]
+        },
+        {
+            "route": "/api/admin/metrics/requests",
+            "status": "200",
+            "points": [
+                {
+                    "time": "04:31:51 PM",
+                    "value": 1
+                },
+                {
+                    "time": "04:32:06 PM",
+                    "value": 1
+                },
+                {
+                    "time": "04:32:21 PM",
+                    "value": 1
+                },
+                {
+                    "time": "04:32:36 PM",
+                    "value": 1
+                }
+            ]
+        }
+    ]
+}

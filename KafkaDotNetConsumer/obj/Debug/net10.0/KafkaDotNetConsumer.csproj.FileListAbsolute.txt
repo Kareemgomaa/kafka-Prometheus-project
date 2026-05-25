@@ -40,3 +40,4 @@ F:\kareem\I-Fekra\kafka learning\KafkaDotNetConsumer\obj\Debug\net10.0\refint\Ka
 F:\kareem\I-Fekra\kafka learning\KafkaDotNetConsumer\obj\Debug\net10.0\KafkaDotNetConsumer.pdb
 F:\kareem\I-Fekra\kafka learning\KafkaDotNetConsumer\obj\Debug\net10.0\KafkaDotNetConsumer.genruntimeconfig.cache
 F:\kareem\I-Fekra\kafka learning\KafkaDotNetConsumer\obj\Debug\net10.0\ref\KafkaDotNetConsumer.dll
+F:\kareem\I-Fekra\kafka learning\KafkaDotNetConsumer\obj\Debug\net10.0\KafkaDotNetConsumer.sourcelink.json
