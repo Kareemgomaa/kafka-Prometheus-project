@@ -63,7 +63,7 @@ services:
     container_name: node-exporter
     restart: unless-stopped
     volumes:
-      - c:/:/host/c:ro
+      - /:/host:ro
     ports:
       - "9100:9100"
     networks:

@@ -1,0 +1,934 @@
+{
+    "success": true,
+    "timestamp": "10:33:53 AM",
+    "metrics": {
+        "requests": [
+            {
+                "route": "/api/admin/metrics/cpu",
+                "status": "200",
+                "points": [
+                    {
+                        "time": "10:29:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:29:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:29:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:30:08 AM",
+                        "value": 0.02
+                    },
+                    {
+                        "time": "10:30:23 AM",
+                        "value": 0.02
+                    },
+                    {
+                        "time": "10:30:38 AM",
+                        "value": 0.02
+                    },
+                    {
+                        "time": "10:30:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:53 AM",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "route": "/api/admin/metrics/disk",
+                "status": "200",
+                "points": [
+                    {
+                        "time": "10:30:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:30:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:30:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:30:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:53 AM",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "route": "/api/admin/metrics/ram",
+                "status": "200",
+                "points": [
+                    {
+                        "time": "10:29:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:29:53 AM",
+                        "value": 0.04
+                    },
+                    {
+                        "time": "10:30:08 AM",
+                        "value": 0.04
+                    },
+                    {
+                        "time": "10:30:23 AM",
+                        "value": 0.04
+                    },
+                    {
+                        "time": "10:30:38 AM",
+                        "value": 0.04
+                    },
+                    {
+                        "time": "10:30:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:53 AM",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "route": "/api/admin/metrics/requests",
+                "status": "200",
+                "points": [
+                    {
+                        "time": "10:29:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:29:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:30:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:30:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:30:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:30:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:53 AM",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "route": "/api/order",
+                "status": "200",
+                "points": [
+                    {
+                        "time": "10:29:38 AM",
+                        "value": 0.02
+                    },
+                    {
+                        "time": "10:29:53 AM",
+                        "value": 0.04
+                    },
+                    {
+                        "time": "10:30:08 AM",
+                        "value": 0.04
+                    },
+                    {
+                        "time": "10:30:23 AM",
+                        "value": 0.04
+                    },
+                    {
+                        "time": "10:30:38 AM",
+                        "value": 0.02
+                    },
+                    {
+                        "time": "10:30:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:31:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:32:53 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:08 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:23 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:38 AM",
+                        "value": 0
+                    },
+                    {
+                        "time": "10:33:53 AM",
+                        "value": 0
+                    }
+                ]
+            }
+        ],
+        "ram": [
+            {
+                "label": "RAM Usage (%)",
+                "points": [
+                    {
+                        "time": "10:28:53 AM",
+                        "value": 89.29
+                    },
+                    {
+                        "time": "10:29:08 AM",
+                        "value": 86.91
+                    },
+                    {
+                        "time": "10:29:23 AM",
+                        "value": 89.01
+                    },
+                    {
+                        "time": "10:29:38 AM",
+                        "value": 91.81
+                    },
+                    {
+                        "time": "10:29:53 AM",
+                        "value": 90.89
+                    },
+                    {
+                        "time": "10:30:08 AM",
+                        "value": 87.76
+                    },
+                    {
+                        "time": "10:30:23 AM",
+                        "value": 90.4
+                    },
+                    {
+                        "time": "10:30:38 AM",
+                        "value": 92.85
+                    },
+                    {
+                        "time": "10:30:53 AM",
+                        "value": 90.68
+                    },
+                    {
+                        "time": "10:31:08 AM",
+                        "value": 93.17
+                    },
+                    {
+                        "time": "10:31:23 AM",
+                        "value": 90.84
+                    },
+                    {
+                        "time": "10:31:38 AM",
+                        "value": 93.03
+                    },
+                    {
+                        "time": "10:31:53 AM",
+                        "value": 91.05
+                    },
+                    {
+                        "time": "10:32:08 AM",
+                        "value": 93.38
+                    },
+                    {
+                        "time": "10:32:23 AM",
+                        "value": 91.2
+                    },
+                    {
+                        "time": "10:32:38 AM",
+                        "value": 93.49
+                    },
+                    {
+                        "time": "10:32:53 AM",
+                        "value": 91.4
+                    },
+                    {
+                        "time": "10:33:08 AM",
+                        "value": 93.64
+                    },
+                    {
+                        "time": "10:33:23 AM",
+                        "value": 91.8
+                    },
+                    {
+                        "time": "10:33:38 AM",
+                        "value": 93.95
+                    }
+                ]
+            }
+        ],
+        "cpu": [
+            {
+                "label": "CPU Usage (%)",
+                "points": [
+                    {
+                        "time": "10:28:53 AM",
+                        "value": 1.17
+                    },
+                    {
+                        "time": "10:29:08 AM",
+                        "value": 1.02
+                    },
+                    {
+                        "time": "10:29:23 AM",
+                        "value": 0.85
+                    },
+                    {
+                        "time": "10:29:38 AM",
+                        "value": 0.43
+                    },
+                    {
+                        "time": "10:29:53 AM",
+                        "value": 0.48
+                    },
+                    {
+                        "time": "10:30:08 AM",
+                        "value": 0.54
+                    },
+                    {
+                        "time": "10:30:23 AM",
+                        "value": 0.23
+                    },
+                    {
+                        "time": "10:30:38 AM",
+                        "value": 0.28
+                    },
+                    {
+                        "time": "10:30:53 AM",
+                        "value": 0.43
+                    },
+                    {
+                        "time": "10:31:08 AM",
+                        "value": 0.48
+                    },
+                    {
+                        "time": "10:31:23 AM",
+                        "value": 0.45
+                    },
+                    {
+                        "time": "10:31:38 AM",
+                        "value": 0.28
+                    },
+                    {
+                        "time": "10:31:53 AM",
+                        "value": 0.17
+                    },
+                    {
+                        "time": "10:32:08 AM",
+                        "value": 0.23
+                    },
+                    {
+                        "time": "10:32:23 AM",
+                        "value": 0.23
+                    },
+                    {
+                        "time": "10:32:38 AM",
+                        "value": 0.23
+                    },
+                    {
+                        "time": "10:32:53 AM",
+                        "value": 0.25
+                    },
+                    {
+                        "time": "10:33:08 AM",
+                        "value": 0.17
+                    },
+                    {
+                        "time": "10:33:23 AM",
+                        "value": 0.11
+                    },
+                    {
+                        "time": "10:33:38 AM",
+                        "value": 0.08
+                    },
+                    {
+                        "time": "10:33:53 AM",
+                        "value": 0.37
+                    }
+                ]
+            }
+        ],
+        "disk": [
+            {
+                "device": "/dev/sde",
+                "mountpoint": "/etc/hostname",
+                "points": [
+                    {
+                        "time": "10:28:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:29:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:29:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:29:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:29:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:30:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:30:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:30:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:30:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:31:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:31:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:31:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:31:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:32:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:32:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:32:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:32:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:33:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:33:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:33:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:33:53 AM",
+                        "value": 0.5
+                    }
+                ]
+            },
+            {
+                "device": "/dev/sde",
+                "mountpoint": "/etc/hosts",
+                "points": [
+                    {
+                        "time": "10:28:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:29:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:29:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:29:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:29:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:30:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:30:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:30:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:30:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:31:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:31:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:31:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:31:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:32:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:32:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:32:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:32:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:33:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:33:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:33:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:33:53 AM",
+                        "value": 0.5
+                    }
+                ]
+            },
+            {
+                "device": "/dev/sde",
+                "mountpoint": "/etc/resolv.conf",
+                "points": [
+                    {
+                        "time": "10:28:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:29:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:29:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:29:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:29:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:30:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:30:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:30:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:30:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:31:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:31:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:31:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:31:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:32:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:32:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:32:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:32:53 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:33:08 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:33:23 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:33:38 AM",
+                        "value": 0.5
+                    },
+                    {
+                        "time": "10:33:53 AM",
+                        "value": 0.5
+                    }
+                ]
+            },
+            {
+                "device": "C:\\134",
+                "mountpoint": "/host/c",
+                "points": [
+                    {
+                        "time": "10:28:53 AM",
+                        "value": 72.96
+                    },
+                    {
+                        "time": "10:29:08 AM",
+                        "value": 72.96
+                    },
+                    {
+                        "time": "10:29:23 AM",
+                        "value": 72.96
+                    },
+                    {
+                        "time": "10:29:38 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:29:53 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:30:08 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:30:23 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:30:38 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:30:53 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:31:08 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:31:23 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:31:38 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:31:53 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:32:08 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:32:23 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:32:38 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:32:53 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:33:08 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:33:23 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:33:38 AM",
+                        "value": 72.97
+                    },
+                    {
+                        "time": "10:33:53 AM",
+                        "value": 72.97
+                    }
+                ]
+            }
+        ]
+    }
+}
