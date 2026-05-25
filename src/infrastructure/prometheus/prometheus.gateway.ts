@@ -1,9 +1,9 @@
 import axios from 'axios';
 import { ENV } from '../config/environment.js';
-import { IMetricsGateway } from '../../application/services/metrics-collector.interface.js';
+import { IMetricsGateway } from '../../application/interfaces/metrics-gateway.interface.js';
 
-export class PrometheusGateway extends IMetricsGateway {
-  async getMetricRange(query) {
+export class PrometheusGateway implements IMetricsGateway {
+  async getMetricRange(query: string): Promise<any[]> {
     try {
       const end = new Date().toISOString();
       const start = new Date(Date.now() - 5 * 60 * 1000).toISOString(); 
@@ -11,7 +11,7 @@ export class PrometheusGateway extends IMetricsGateway {
         params: { query, start, end, step: '15s' } 
       });
       return response.data.data.result;
-    } catch (error) {
+    } catch (error: any) {
       console.error(`Error pulling from Prometheus [${query}]:`, error.message);
       return [];
     }

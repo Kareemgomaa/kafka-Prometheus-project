@@ -1,11 +1,13 @@
-import { Server } from 'socket.io';
+import { Server as HttpServer } from 'http';
+import { Server, Socket } from 'socket.io';
+import { GetMetricsUseCase } from '../../application/use-cases/get-metrics.usecase.js';
 
-export function initWebSocketServer(httpServer, getMetricsUseCase) {
+export function initWebSocketServer(httpServer: HttpServer, getMetricsUseCase: GetMetricsUseCase): Server {
   const io = new Server(httpServer, {
     cors: { origin: "*", methods: ["GET", "POST"] }
   });
 
-  io.on('connection', (socket) => {
+  io.on('connection', (socket: Socket) => {
     console.log(` Client connected to WebSocket: ${socket.id}`);
 
     const sendLiveMetrics = async () => {
@@ -16,7 +18,7 @@ export function initWebSocketServer(httpServer, getMetricsUseCase) {
           timestamp: new Date().toLocaleTimeString(),
           metrics: liveMetrics
         });
-      } catch (error) {
+      } catch (error: any) {
         console.error("Error broadcasting over socket:", error.message);
       }
     };
@@ -26,7 +28,7 @@ export function initWebSocketServer(httpServer, getMetricsUseCase) {
 
     socket.on('disconnect', () => {
       clearInterval(metricsInterval);
-      console.log(` Client disconnected from WebSocket: ${socket.id}`);
+      console.log(`Client disconnected from WebSocket: ${socket.id}`);
     });
   });
 
