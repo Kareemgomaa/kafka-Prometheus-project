@@ -15,7 +15,6 @@ const kafkaProducedCounter = new client.Counter({
   labelNames: ['topic']
 });
 
-// هنا بنعمل Implement للـ Interface الفعلي الخاص بالـ Tracker
 export class PrometheusMetricsTracker implements IMetricsTracker {
   incKafkaProduced(topic: string): void {
     kafkaProducedCounter.inc({ topic });

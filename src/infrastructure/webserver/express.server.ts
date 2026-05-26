@@ -18,11 +18,9 @@ export function createExpressApp({ orderController, metricsController, metricsTr
   app.use(express.json());
   app.use(createTraceMiddleware(metricsTracker));
 
-  // HTTP Routes
   app.get('/api/order', orderController.handlePlaceOrder);
   app.get('/metrics', metricsController.handlePrometheusScraping);
   
-  // Dashboard Metrics
   app.get('/api/admin/metrics/requests', metricsController.handleGetSingleMetric('requests'));
   app.get('/api/admin/metrics/ram', metricsController.handleGetSingleMetric('ram'));
   app.get('/api/admin/metrics/cpu', metricsController.handleGetSingleMetric('cpu'));

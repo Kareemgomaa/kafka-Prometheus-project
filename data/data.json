@@ -1,6 +1,6 @@
 {
     "success": true,
-    "timestamp": "10:33:53 AM",
+    "timestamp": "3:21:55 PM",
     "metrics": {
         "requests": [
             {
@@ -8,79 +8,7 @@
                 "status": "200",
                 "points": [
                     {
-                        "time": "10:29:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:29:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:29:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:30:08 AM",
-                        "value": 0.02
-                    },
-                    {
-                        "time": "10:30:23 AM",
-                        "value": 0.02
-                    },
-                    {
-                        "time": "10:30:38 AM",
-                        "value": 0.02
-                    },
-                    {
-                        "time": "10:30:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:53 AM",
+                        "time": "03:16:55 PM",
                         "value": 0
                     }
                 ]
@@ -90,67 +18,7 @@
                 "status": "200",
                 "points": [
                     {
-                        "time": "10:30:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:30:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:30:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:30:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:53 AM",
+                        "time": "03:16:55 PM",
                         "value": 0
                     }
                 ]
@@ -160,75 +28,7 @@
                 "status": "200",
                 "points": [
                     {
-                        "time": "10:29:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:29:53 AM",
-                        "value": 0.04
-                    },
-                    {
-                        "time": "10:30:08 AM",
-                        "value": 0.04
-                    },
-                    {
-                        "time": "10:30:23 AM",
-                        "value": 0.04
-                    },
-                    {
-                        "time": "10:30:38 AM",
-                        "value": 0.04
-                    },
-                    {
-                        "time": "10:30:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:53 AM",
+                        "time": "03:16:55 PM",
                         "value": 0
                     }
                 ]
@@ -238,75 +38,7 @@
                 "status": "200",
                 "points": [
                     {
-                        "time": "10:29:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:29:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:30:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:30:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:30:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:30:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:53 AM",
+                        "time": "03:16:55 PM",
                         "value": 0
                     }
                 ]
@@ -316,75 +48,7 @@
                 "status": "200",
                 "points": [
                     {
-                        "time": "10:29:38 AM",
-                        "value": 0.02
-                    },
-                    {
-                        "time": "10:29:53 AM",
-                        "value": 0.04
-                    },
-                    {
-                        "time": "10:30:08 AM",
-                        "value": 0.04
-                    },
-                    {
-                        "time": "10:30:23 AM",
-                        "value": 0.04
-                    },
-                    {
-                        "time": "10:30:38 AM",
-                        "value": 0.02
-                    },
-                    {
-                        "time": "10:30:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:31:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:32:53 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:08 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:23 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:38 AM",
-                        "value": 0
-                    },
-                    {
-                        "time": "10:33:53 AM",
+                        "time": "03:16:55 PM",
                         "value": 0
                     }
                 ]
@@ -395,84 +59,88 @@
                 "label": "RAM Usage (%)",
                 "points": [
                     {
-                        "time": "10:28:53 AM",
-                        "value": 89.29
+                        "time": "03:16:55 PM",
+                        "value": 38.34
                     },
                     {
-                        "time": "10:29:08 AM",
-                        "value": 86.91
+                        "time": "03:17:10 PM",
+                        "value": 38.37
                     },
                     {
-                        "time": "10:29:23 AM",
-                        "value": 89.01
+                        "time": "03:17:25 PM",
+                        "value": 38.41
                     },
                     {
-                        "time": "10:29:38 AM",
-                        "value": 91.81
+                        "time": "03:17:40 PM",
+                        "value": 38.92
                     },
                     {
-                        "time": "10:29:53 AM",
-                        "value": 90.89
+                        "time": "03:17:55 PM",
+                        "value": 39.04
                     },
                     {
-                        "time": "10:30:08 AM",
-                        "value": 87.76
+                        "time": "03:18:10 PM",
+                        "value": 39.04
                     },
                     {
-                        "time": "10:30:23 AM",
-                        "value": 90.4
+                        "time": "03:18:25 PM",
+                        "value": 39.03
                     },
                     {
-                        "time": "10:30:38 AM",
-                        "value": 92.85
+                        "time": "03:18:40 PM",
+                        "value": 39.06
                     },
                     {
-                        "time": "10:30:53 AM",
-                        "value": 90.68
+                        "time": "03:18:55 PM",
+                        "value": 39.05
                     },
                     {
-                        "time": "10:31:08 AM",
-                        "value": 93.17
+                        "time": "03:19:10 PM",
+                        "value": 39.04
                     },
                     {
-                        "time": "10:31:23 AM",
-                        "value": 90.84
+                        "time": "03:19:25 PM",
+                        "value": 39.02
                     },
                     {
-                        "time": "10:31:38 AM",
-                        "value": 93.03
+                        "time": "03:19:40 PM",
+                        "value": 39.03
                     },
                     {
-                        "time": "10:31:53 AM",
-                        "value": 91.05
+                        "time": "03:19:55 PM",
+                        "value": 37.97
                     },
                     {
-                        "time": "10:32:08 AM",
-                        "value": 93.38
+                        "time": "03:20:10 PM",
+                        "value": 37.99
                     },
                     {
-                        "time": "10:32:23 AM",
-                        "value": 91.2
+                        "time": "03:20:25 PM",
+                        "value": 37.94
                     },
                     {
-                        "time": "10:32:38 AM",
-                        "value": 93.49
+                        "time": "03:20:40 PM",
+                        "value": 38.06
                     },
                     {
-                        "time": "10:32:53 AM",
-                        "value": 91.4
+                        "time": "03:20:55 PM",
+                        "value": 38.08
                     },
                     {
-                        "time": "10:33:08 AM",
-                        "value": 93.64
+                        "time": "03:21:10 PM",
+                        "value": 38.11
                     },
                     {
-                        "time": "10:33:23 AM",
-                        "value": 91.8
+                        "time": "03:21:25 PM",
+                        "value": 38.05
                     },
                     {
-                        "time": "10:33:38 AM",
-                        "value": 93.95
+                        "time": "03:21:40 PM",
+                        "value": 38.16
+                    },
+                    {
+                        "time": "03:21:55 PM",
+                        "value": 37.44
                     }
                 ]
             }
@@ -482,450 +150,100 @@
                 "label": "CPU Usage (%)",
                 "points": [
                     {
-                        "time": "10:28:53 AM",
-                        "value": 1.17
+                        "time": "03:16:55 PM",
+                        "value": 1.66
                     },
                     {
-                        "time": "10:29:08 AM",
-                        "value": 1.02
+                        "time": "03:17:10 PM",
+                        "value": 1.74
                     },
                     {
-                        "time": "10:29:23 AM",
-                        "value": 0.85
+                        "time": "03:17:25 PM",
+                        "value": 1.67
                     },
                     {
-                        "time": "10:29:38 AM",
-                        "value": 0.43
+                        "time": "03:17:40 PM",
+                        "value": 1.51
                     },
                     {
-                        "time": "10:29:53 AM",
-                        "value": 0.48
+                        "time": "03:17:55 PM",
+                        "value": 1.56
                     },
                     {
-                        "time": "10:30:08 AM",
-                        "value": 0.54
+                        "time": "03:18:10 PM",
+                        "value": 1.47
                     },
                     {
-                        "time": "10:30:23 AM",
-                        "value": 0.23
+                        "time": "03:18:25 PM",
+                        "value": 1.51
                     },
                     {
-                        "time": "10:30:38 AM",
-                        "value": 0.28
+                        "time": "03:18:40 PM",
+                        "value": 1.68
                     },
                     {
-                        "time": "10:30:53 AM",
-                        "value": 0.43
+                        "time": "03:18:55 PM",
+                        "value": 1.72
                     },
                     {
-                        "time": "10:31:08 AM",
-                        "value": 0.48
+                        "time": "03:19:10 PM",
+                        "value": 1.63
                     },
                     {
-                        "time": "10:31:23 AM",
-                        "value": 0.45
+                        "time": "03:19:25 PM",
+                        "value": 1.53
                     },
                     {
-                        "time": "10:31:38 AM",
-                        "value": 0.28
+                        "time": "03:19:40 PM",
+                        "value": 1.46
                     },
                     {
-                        "time": "10:31:53 AM",
-                        "value": 0.17
+                        "time": "03:19:55 PM",
+                        "value": 1.57
                     },
                     {
-                        "time": "10:32:08 AM",
-                        "value": 0.23
+                        "time": "03:20:10 PM",
+                        "value": 1.43
                     },
                     {
-                        "time": "10:32:23 AM",
-                        "value": 0.23
+                        "time": "03:20:25 PM",
+                        "value": 1.5
                     },
                     {
-                        "time": "10:32:38 AM",
-                        "value": 0.23
+                        "time": "03:20:40 PM",
+                        "value": 1.41
                     },
                     {
-                        "time": "10:32:53 AM",
-                        "value": 0.25
+                        "time": "03:20:55 PM",
+                        "value": 1.46
                     },
                     {
-                        "time": "10:33:08 AM",
-                        "value": 0.17
+                        "time": "03:21:10 PM",
+                        "value": 1.44
                     },
                     {
-                        "time": "10:33:23 AM",
-                        "value": 0.11
+                        "time": "03:21:25 PM",
+                        "value": 1.55
                     },
                     {
-                        "time": "10:33:38 AM",
-                        "value": 0.08
+                        "time": "03:21:40 PM",
+                        "value": 1.51
                     },
                     {
-                        "time": "10:33:53 AM",
-                        "value": 0.37
+                        "time": "03:21:55 PM",
+                        "value": 1.62
                     }
                 ]
             }
         ],
         "disk": [
             {
-                "device": "/dev/sde",
-                "mountpoint": "/etc/hostname",
+                "device": "System Root",
+                "mountpoint": "/",
                 "points": [
                     {
-                        "time": "10:28:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:29:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:29:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:29:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:29:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:30:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:30:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:30:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:30:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:31:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:31:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:31:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:31:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:32:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:32:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:32:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:32:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:33:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:33:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:33:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:33:53 AM",
-                        "value": 0.5
-                    }
-                ]
-            },
-            {
-                "device": "/dev/sde",
-                "mountpoint": "/etc/hosts",
-                "points": [
-                    {
-                        "time": "10:28:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:29:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:29:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:29:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:29:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:30:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:30:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:30:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:30:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:31:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:31:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:31:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:31:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:32:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:32:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:32:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:32:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:33:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:33:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:33:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:33:53 AM",
-                        "value": 0.5
-                    }
-                ]
-            },
-            {
-                "device": "/dev/sde",
-                "mountpoint": "/etc/resolv.conf",
-                "points": [
-                    {
-                        "time": "10:28:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:29:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:29:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:29:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:29:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:30:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:30:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:30:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:30:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:31:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:31:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:31:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:31:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:32:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:32:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:32:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:32:53 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:33:08 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:33:23 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:33:38 AM",
-                        "value": 0.5
-                    },
-                    {
-                        "time": "10:33:53 AM",
-                        "value": 0.5
-                    }
-                ]
-            },
-            {
-                "device": "C:\\134",
-                "mountpoint": "/host/c",
-                "points": [
-                    {
-                        "time": "10:28:53 AM",
-                        "value": 72.96
-                    },
-                    {
-                        "time": "10:29:08 AM",
-                        "value": 72.96
-                    },
-                    {
-                        "time": "10:29:23 AM",
-                        "value": 72.96
-                    },
-                    {
-                        "time": "10:29:38 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:29:53 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:30:08 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:30:23 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:30:38 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:30:53 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:31:08 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:31:23 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:31:38 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:31:53 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:32:08 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:32:23 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:32:38 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:32:53 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:33:08 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:33:23 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:33:38 AM",
-                        "value": 72.97
-                    },
-                    {
-                        "time": "10:33:53 AM",
-                        "value": 72.97
+                        "time": "03:21:55 PM",
+                        "value": 45.5
                     }
                 ]
             }

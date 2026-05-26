@@ -1,13 +1,12 @@
 import { IMetricsGateway } from '../interfaces/metrics-gateway.interface.js';
 
 export class GetMetricsUseCase {
-  private queries = {
-    requests: 'sum by (route, status_code) (rate(http_requests_total[1m]))',
-    ram: '(nodejs_heap_size_used_bytes / nodejs_heap_size_total_bytes) * 100',
-    cpu: 'rate(process_cpu_user_seconds_total[1m]) * 100',
-    disk: '((node_filesystem_size_bytes - node_filesystem_free_bytes) / node_filesystem_size_bytes) * 100'
-  };
-
+private queries = {
+  requests: 'sum by (route, status_code) (rate(http_requests_total[1m]))',
+  ram: '((node_memory_MemTotal_bytes - node_memory_MemAvailable_bytes) / node_memory_MemTotal_bytes) * 100',
+  cpu: '(1 - avg by(instance) (rate(node_cpu_seconds_total{mode="idle"}[1m]))) * 100',
+  disk: '((node_filesystem_size_bytes{mountpoint="/"} - node_filesystem_free_bytes{mountpoint="/"}) / node_filesystem_size_bytes{mountpoint="/"}) * 100'
+};
   constructor(private metricsGateway: IMetricsGateway) {}
 
   async executeLiveMetrics() {

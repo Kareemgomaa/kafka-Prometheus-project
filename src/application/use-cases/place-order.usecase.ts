@@ -21,7 +21,6 @@ export class PlaceOrderUseCase {
     const order = new Order({});
     const topicName = 'order-events';
 
-    // الـ Use Case بتنادي الـ Interface وهي مغمضة ومبتعرفش الـ Implementation معمول بإيه
     await this.kafkaProducer.send(topicName, order.toJSON(), traceId);
     this.metricsTracker.incKafkaProduced(topicName);
 
