@@ -27,7 +27,7 @@ async function bootstrap() {
   initWebSocketServer(httpServer, getMetricsUseCase);
 
   httpServer.listen(ENV.PORT, async () => {
-    console.log(` Server running on port ${ENV.PORT} (TypeScript & Clean Architecture Enabled)`);
+    console.log(` Server running on port ${ENV.PORT}`);
     await kafkaProducerImpl.connect();
   });
 }
